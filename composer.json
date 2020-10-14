@@ -1,36 +1,36 @@
 {
-    "name": "laravel-enso/packaging-units",
+    "name": "genealogiawebsite/packaging-units",
     "type": "library",
     "description": "Packaging units dependency for Laravel Enso",
     "authors": [
         {
             "name": "Reza Fouladi",
             "email": "raftx24@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         },
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         }
     ],
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "packaging-units",
         "units"
     ],
-    "homepage": "https://github.com/laravel-enso/packaging-units",
+    "homepage": "https://github.com/genealogiawebsite/packaging-units",
     "require": {
         "php": ">=7.4.0",
-        "laravel-enso/core": "^6.0",
-        "laravel-enso/forms": "^4.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/migrator": "^2.0",
-        "laravel-enso/rememberable": "^3.0",
-        "laravel-enso/select": "^4.0",
-        "laravel-enso/tables": "^4.0"
+        "genealogiawebsite/core": "^6.0",
+        "genealogiawebsite/forms": "^4.0",
+        "genealogiawebsite/helpers": "^2.0",
+        "genealogiawebsite/migrator": "^2.0",
+        "genealogiawebsite/rememberable": "^3.0",
+        "genealogiawebsite/select": "^4.0",
+        "genealogiawebsite/tables": "^4.0"
     },
     "autoload": {
         "psr-4": {
